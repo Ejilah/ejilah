@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Elijah!
-> Note: If you are looking here from a application standpoint, many of my projects are private but I would be more than willing to showcase just contact me through the information provided on my application. :)
+> Note: If you are looking here from a job application standpoint, many of my projects are private but I would be more than willing to showcase one-on-one, just contact me through the information provided on said application. :)
 - 🔭 I’m currently working on ```Ideas for open source projects```
 - 🌱 I’m currently learning ```Cyber Security @ University```
 - 👯 I’m looking to collaborate on ```TBD```
